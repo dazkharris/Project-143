@@ -1,0 +1,38 @@
+.copy_right_footer {
+    position: fixed;
+    color: khaki;
+    bottom: 0;
+    width: 100%;
+    background-color: firebrick;
+    line-height: 2;
+    text-align: center;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+h4 {
+    background-color: aquamarine;
+    line-height: 2;
+    margin: 0px;
+}
